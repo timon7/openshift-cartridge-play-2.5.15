@@ -88,4 +88,4 @@ Endpoints:
     Backend: ''
     Options:
       health: true
-Source-Url: https://github.com/timon7/openshift-cartridge-play-2.5.15/blob/master/play-2.5.0.zip
+Source-Url: https://github.com/timon7/openshift-cartridge-play-2.5.15/blob/master/play-2.5.15.zip

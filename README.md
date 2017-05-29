@@ -1,4 +1,4 @@
-Esta es una actualización de https://github.com/tyrcho/openshift-cartridge-play2 a la versión de play 2.5.15   
+Esta es una actualización de https://github.com/tyrcho/openshift-cartridge-play2 a la versión de play v2.5.15, sbt v0.13.15 y typesafe-activator v1.3.12
 
 [![logo](https://www.playframework.com/assets/images/logos/play_full_color.png)](http://www.playframework.com/)
 

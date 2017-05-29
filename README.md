@@ -99,7 +99,7 @@ at the moment you need to use ```http://cartreflect-claytondev.rhcloud.com/refle
 1. Go to https://openshift.redhat.com/app/console/applications
 2. Click on "Add Application…"
 3. Go to the bottom page and in Code Anything "URL to a cartridge definition" insert:
-`http://cartreflect-claytondev.rhcloud.com/reflect?github=tyrcho/openshift-cartridge-play2&commit=play-2.5.15`
+`http://cartreflect-claytondev.rhcloud.com/reflect?github=https://github.com/timon7/openshift-cartridge-play-2.5.15`
 4. Click on "Next"
 5. Define an url for the Application Name
 6. Go to the bottom page and click the button "Create Application"

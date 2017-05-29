@@ -8,7 +8,7 @@ License-Url: http://www.gnu.org/copyleft/lesser.txt
 Vendor: none
 Cartridge-Version: 2.5.15
 Cartridge-Vendor: github
-Website: https://github.com/tyrcho/openshift-cartridge-play2
+Website: https://github.com/timon7/openshift-cartridge-play-2.5.15/blob/master/play-2.5.15.zip
 Help-Topics:
   Developer Center: https://www.openshift.com/developers
 Categories:
@@ -88,4 +88,4 @@ Endpoints:
     Backend: ''
     Options:
       health: true
-Source-Url: https://github.com/tyrcho/openshift-cartridge-play2/archive/play-2.5.0.zip
+Source-Url: https://github.com/timon7/openshift-cartridge-play-2.5.15/blob/master/play-2.5.0.zip
